@@ -1,5 +1,3 @@
-This is a test.
-
 Andrea Miller
 
 Mike Watson
